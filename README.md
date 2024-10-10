@@ -33,7 +33,8 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou a <code>Laura Melo</code>, moro em BH e estou no 6º período do curso de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. Atualmente sou <code>Software Engineer Intern</code> na <a href="https://www.levty.com/br/">Levty</a>. 👩🏻‍💻
+<i><b>Olá</b> :wave:, sou a <code>Laura Melo</code>, moro em BH e estou cursando o 6º período do curso de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. Além disso, também sou técnica em Automação Industrial pelo 
+ <a href="https://www.coltec.ufmg.br/coltec-ufmg/">COLTEC-UFMG</a>. Atualmente sou <code>Engenheira de Software Intern</code> na <a href="https://www.levty.com/br/">Levty</a>. 👩🏻‍💻
 </div>
 
 -----
@@ -153,6 +154,55 @@
 
 <div>
 
+</div>
+
+-----
+
+<div>
+<table align="right">
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+<tr>
+<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pythonmg.png?raw=true" width="70px" height="70px"/></a></td>
+</tr>
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+</table>
+<img src="https://img.shields.io/badge/Python-Expert-blue?logo=Python"/>
+<img src="https://img.shields.io/badge/Java-Expert-blue"/>
+<img src="https://img.shields.io/badge/C-Enthusiast-blue"/>
+<img src="https://img.shields.io/badge/TDD-Advocate-blue"/>
+<img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue"/>
+<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?logo=opensourceinitiative"/>
+<br />
+<img src="https://img.shields.io/badge/Flask-Dev-blue?logo=Flask"/>
+<img src="https://img.shields.io/badge/FastAPI-Dev-blue?logo=FastAPI"/>
+<img src="https://img.shields.io/badge/JavaScript-Dev-blue?logo=javascript"/>
+<img src="https://img.shields.io/badge/Node.js-Dev-blue?logo=Node.js"/>
+<img src="https://img.shields.io/badge/Next.js-Dev-blue?logo=Next.js"/>
+<img src="https://img.shields.io/badge/Remix-Dev-blue?logo=Remix"/>
+<img src="https://img.shields.io/badge/AWS-Dev-blue?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/S3-Dev-blue?logo=amazons3"/>
+<img src="https://img.shields.io/badge/EC2-Dev-blue?logo=amazonec2"/>
+<img src="https://img.shields.io/badge/SQS-Dev-blue?logo=amazonsqs"/>
+<img src="https://img.shields.io/badge/Cloud%20Watch-Dev-blue?logo=amazoncloudwatch"/>
+<img src="https://img.shields.io/badge/Docker-Dev-blue?logo=docker"/>
+<img src="https://img.shields.io/badge/Grafana-Dev-blue?logo=grafana"/>
+<img src="https://img.shields.io/badge/New%20Relic-Dev-blue?logo=newrelic"/>
+<a href="https://github.com/pythonmg" target="_blank"><img alt="Python-MG" src="https://img.shields.io/badge/Siga%20a%20comunidade%20mineira%20de%20python%3A-Python--MG-blue?logo=Python"/></a>
+<img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white"/>
+<br />
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=lauramelo28"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/lauramelo28/lauramelo28?logo=git"/>
+<a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
+<img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
+<br />
+<img alt="Followers" src="https://img.shields.io/github/followers/lauramelo28?style=social"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/lauramelo28?style=social"/>
+<a href="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
 </div>
 
 -----
