@@ -47,7 +47,7 @@ Seja bem-vindo(a) ao meu espaço! Aqui compartilho projetos, ideias e aprendizad
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+<img height="20" alt="GIF" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/c.png?raw=true"/></a></code>
 &nbsp; 
@@ -93,6 +93,8 @@ Seja bem-vindo(a) ao meu espaço! Aqui compartilho projetos, ideias e aprendizad
 &nbsp; 
 <code><a href="https://www.elastic.co/pt/elasticsearch" target="_blank"><img width="32" height="32" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/elasticsearch.png?raw=true"/></a></code>
 &nbsp;
+<code><a href="https://graphql.org//" target="_blank"><img width="32" height="32" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/graphql.png?raw=true"/></a></code>
+&nbsp; 
 <code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/dbeaver.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/postman.png?raw=true"/></a></code>
@@ -162,10 +164,15 @@ Seja bem-vindo(a) ao meu espaço! Aqui compartilho projetos, ideias e aprendizad
 
 </div>
 
-## Profile View Count
-![Profile View Counter](https://profile-counter.glitch.me/lauramelo28/count.svg)
 
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=lauramelo28&color=blueviolet"/>
+-----
+
+
+<img height="20" alt="GIF" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/visualizador.png?raw=true"/>&nbsp; Visualizações:
+
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=lauramelo28&color=ff69b4"/>
+
+
 
 <div align="center">
  
