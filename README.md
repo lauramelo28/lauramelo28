@@ -1,5 +1,5 @@
 <!--- Header ---> 
-<img align="center" alt="Header" style="margin-bottom:100px; object-fit: contain" width=100%  src="https://github.com/lauramelo28/lauramelo28/blob/main/img/github-header-image3.png?raw=true"/>
+<img align="center" alt="Header" style="margin-bottom:100px; object-fit: contain" width=100%  src="https://github.com/lauramelo28/lauramelo28/blob/main/img/github-header-image6.png?raw=true"/>
 
 
 <!--- Boas vindas ---> 
