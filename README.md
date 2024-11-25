@@ -77,12 +77,6 @@ Seja bem-vindo(a) ao meu espaço! Aqui compartilho projetos, ideias e aprendizad
 &nbsp; 
 <code><a href="https://www.php.net/" target="_blank"><img width="32" height="32" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/php.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/aws.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://aws.amazon.com/pt/sqs/" target="_blank"><img width="32" height="32" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/sqs.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://aws.amazon.com/pt/pm/serv-s3/" target="_blank"><img width="32" height="32" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/s3.png?raw=true"/></a></code>
-&nbsp;
 
 
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/mysql.png?raw=true"/></a></code>
@@ -103,6 +97,12 @@ Seja bem-vindo(a) ao meu espaço! Aqui compartilho projetos, ideias e aprendizad
 &nbsp; 
 <code><a href="https://azure.microsoft.com/pt-br/" target="_blank"><img width="32" height="32" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/azure.png?raw=true"/></a></code>
 &nbsp;
+<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/aws.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://aws.amazon.com/pt/sqs/" target="_blank"><img width="32" height="32" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/sqs.png?raw=true"/></a></code>
+&nbsp;
+<code><a href="https://aws.amazon.com/pt/pm/serv-s3/" target="_blank"><img width="32" height="32" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/s3.png?raw=true"/></a></code>
+&nbsp;
 
 <code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/git.png?raw=true"/></a></code>
 &nbsp; 
@@ -116,6 +116,7 @@ Seja bem-vindo(a) ao meu espaço! Aqui compartilho projetos, ideias e aprendizad
 &nbsp;
 <code><a href="https://www.figma.com/pt-br/" target="_blank"><img width="32" height="32" src="https://github.com/lauramelo28/lauramelo28/blob/main/img/figma.png?raw=true"/></a></code>
 &nbsp;
+
 
 -----
 <!--- Github Status  ---> 
