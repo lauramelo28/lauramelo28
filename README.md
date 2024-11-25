@@ -167,8 +167,23 @@ Seja bem-vindo(a) ao meu espaço! Aqui compartilho projetos, ideias e aprendizad
 
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=lauramelo28&color=blueviolet"/>
 
+<div align="center">
+ 
+```text
+██╗      █████╗ ██╗   ██╗██████╗  █████╗     ███╗   ███╗███████╗██╗      ██████╗ 
+██║     ██╔══██╗██║   ██║██╔══██╗██╔══██╗    ████╗ ████║██╔════╝██║     ██╔═══██╗
+██║     ███████║██║   ██║██████╔╝███████║    ██╔████╔██║█████╗  ██║     ██║   ██║
+██║     ██╔══██║██║   ██║██╔══██╗██╔══██║    ██║╚██╔╝██║██╔══╝  ██║     ██║   ██║
+███████╗██║  ██║╚██████╔╝██║  ██║██║  ██║    ██║ ╚═╝ ██║███████╗███████╗╚██████╔╝
+╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚══════╝╚══════╝ ╚═════╝
+```
+
+</div>
+
 
 -----
+
+
 <!--- Footer  ---> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=FE428E&background=FF092500&width=439&height=55&lines=Foi+um+prazer+ter+voc%C3%AA+aqui!;Volte+sempre+%3A)" alt="Typing SVG" /></a>
 
