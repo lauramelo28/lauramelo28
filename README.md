@@ -169,4 +169,7 @@ Seja bem-vindo(a) ao meu espaço! Aqui compartilho projetos, ideias e aprendizad
 
 
 -----
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c671d9&height=120&section=footer"/>
+<!--- Footer  ---> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=FE428E&background=FF092500&width=439&height=55&lines=Foi+um+prazer+ter+voc%C3%AA+aqui!;Volte+sempre+%3A)" alt="Typing SVG" /></a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=bc1a60&section=footer"/>
