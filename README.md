@@ -138,29 +138,31 @@ Seja bem-vindo(a) ao meu espaço! Aqui compartilho projetos, ideias e aprendizad
  </tr> 
 </table>
  
+
 <table>
  <tr>
-  <td align="center" colspan="3"></td>
- </tr> 
- <tr>
-  <td><img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lauramelo28&theme=radical"/></td>
-  <td><img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lauramelo28&theme=radical"/></td>
-  <td><img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lauramelo28&theme=radical"/></td>
+  <td colspan="4" align="center">
+    <img alt="GitHub Details" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lauramelo28&theme=radical"/>
+  </td>
  </tr>
  <tr>
-  <td><img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lauramelo28&theme=radical&utcOffset=8"/></td>
-  <td><img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lauramelo28&theme=radical"/></td>
-  <td><img alt="WakaTime" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/></td>
+  <td align="center">
+    <img alt="GitHub Stats" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lauramelo28&theme=radical"/>
+  </td>
+  <td align="center">
+    <img alt="GitHub Top Langs" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lauramelo28&theme=radical"/>
+  </td>
+  <td align="center">
+    <img alt="GitHub Productive Time" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lauramelo28&theme=radical&utcOffset=8"/>
+  </td>
+  <td align="center">
+    <img alt="GitHub Most Commit Language" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lauramelo28&theme=radical"/>
+  </td>
  </tr>
- <tr>
-  <td align="center" colspan="3"></td>
- </tr> 
 </table>
 
 </div>
-
 </div>
-
 
 
 -----
