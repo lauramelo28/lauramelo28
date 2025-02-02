@@ -3,7 +3,7 @@
 
 
 <!--- Boas vindas ---> 
-<p>Olá! Sou a Laura, moro em Belo Horizonte e sou estudante do 6º período de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC-Minas</a>. Também sou técnica em Automação Industrial pelo <a href="https://www.coltec.ufmg.br/coltec-ufmg/">Coltec-UFMG</a>.
+<p>Olá! Sou a Laura, moro em Belo Horizonte e sou estudante do 7º período de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC-Minas</a>. Também sou técnica em Automação Industrial pelo <a href="https://www.coltec.ufmg.br/coltec-ufmg/">Coltec-UFMG</a>.
 Atualmente, trabalho como Engenheira de Software na <a href="https://www.levty.com/br/">Levty</a>, no qual desenvolvo soluções inovadoras, automatizo processos e resolvo desafios técnicos diariamente.
 
 Sou apaixonada por resolver problemas, explorar novas tecnologias e criar softwares que realmente fazem a diferença. No meu tempo livre, gosto de aprender sobre novas ferramentas, buscar formas criativas para aprimorar minhas habilidades e participar de eventos na área tech para me manter sempre atualizada. 
